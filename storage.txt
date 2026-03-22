@@ -1,0 +1,63 @@
+Dragonball
+Akira Toriyama
+12.99
+Dragonball Z
+Akira Toriyama
+20
+Harry Potter
+J.K. Rowling
+60
+Alice in Wonderland
+Lewis Carroll
+15
+Diary of a Wimpy Kid
+Jeff Kinney
+20
+Amazon
+Jeff Bezos
+30
+Redstone Guide
+Mojang
+30
+The Manga Guide to Calculus
+No Starch Press
+25
+Dragon Quest
+Akira Toriyama
+12
+Laplace Transform
+Pierre-Simon Laplace
+200
+Fourier Analysis
+Joseph Fourier
+350
+Manga Guide to Linear Algebra
+No Starch Press
+120
+Peanuts
+Charles M. Schulz
+12.5
+Cocodrillo
+Mafia
+45
+Python for Dummies
+For Dummies Inc.
+50
+Oxford Dictionary
+United Kingdom
+300
+Google for Dummies
+For Dummies Inc.
+55
+Elements of Algebra
+Leonhard Euler
+2.72
+Algorithms in Python
+Grokking
+120
+Oxford Spanish Dictionary
+United Kingdom
+320
+1984
+George Orwell
+30
